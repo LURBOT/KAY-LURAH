@@ -21,6 +21,5 @@ Ketika anda sudah memasang userbot ini, berarti anda sudah siap dengan resikonya
 - Gabung Group [@visaluxsupport](https://t.me/visaluxsupport) untuk diskusi, pelaporan bug, dan bantuan tentang KAY-LURAH-Userbot.
 
 ## 👨🏻‍💻 Credits
--  [LUR](https://github.com/LURBOT)
+-  [KAY-LURAH](https://github.com/LURBOT)
 
-https://t.me/visaluxsupport
